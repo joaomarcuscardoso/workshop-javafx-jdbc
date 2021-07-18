@@ -1,0 +1,22 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/mnt/d/Users/rfcjo/Projects/javafx-sdk-11.0.2/lib/javafx.base.jar",
+        "/mnt/d/Users/rfcjo/Projects/javafx-sdk-11.0.2/lib/javafx.controls.jar",
+        "/mnt/d/Users/rfcjo/Projects/javafx-sdk-11.0.2/lib/javafx.fxml.jar",
+        "/mnt/d/Users/rfcjo/Projects/javafx-sdk-11.0.2/lib/javafx.graphics.jar",
+        "/mnt/d/Users/rfcjo/Projects/javafx-sdk-11.0.2/lib/javafx.media.jar",
+        "/mnt/d/Users/rfcjo/Projects/javafx-sdk-11.0.2/lib/javafx.swing.jar",
+        "/mnt/d/Users/rfcjo/Projects/javafx-sdk-11.0.2/lib/javafx.web.jar",
+        "/mnt/d/Users/rfcjo/Projects/javafx-sdk-11.0.2/lib/javafx-swt.jar",
+        "d:\\Users\\rfcjo\\Projects\\javafx-sdk-11.0.2\\lib\\javafx.base.jar",
+        "d:\\Users\\rfcjo\\Projects\\javafx-sdk-11.0.2\\lib\\javafx.controls.jar",
+        "d:\\Users\\rfcjo\\Projects\\javafx-sdk-11.0.2\\lib\\javafx.fxml.jar",
+        "d:\\Users\\rfcjo\\Projects\\javafx-sdk-11.0.2\\lib\\javafx.graphics.jar",
+        "d:\\Users\\rfcjo\\Projects\\javafx-sdk-11.0.2\\lib\\javafx.media.jar",
+        "d:\\Users\\rfcjo\\Projects\\javafx-sdk-11.0.2\\lib\\javafx.swing.jar",
+        "d:\\Users\\rfcjo\\Projects\\javafx-sdk-11.0.2\\lib\\javafx.web.jar",
+        "d:\\Users\\rfcjo\\Projects\\javafx-sdk-11.0.2\\lib\\javafx-swt.jar",
+        "c:\\Program Files (x86)\\MySQL\\Connector J 8.0\\mysql-connector-java-8.0.25.jar"
+    ]
+}
